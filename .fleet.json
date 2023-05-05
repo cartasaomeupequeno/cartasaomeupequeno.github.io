@@ -1,0 +1,7 @@
+{
+    "build": {
+      "image": "fleet/hugo",
+      "command": "yarn && hugo mod get && hugo",
+      "publicDir": "public",
+    }
+   }
