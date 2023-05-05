@@ -1,0 +1,18 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/minima"]
+	path = themes/minima
+	url = https://github.com/mivinci/hugo-theme-minima.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/mini"]
+	path = themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/simpleness"]
+	path = themes/simpleness
+	url = https://github.com/RainerChiang/simpleness.git

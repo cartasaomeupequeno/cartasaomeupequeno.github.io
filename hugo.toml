@@ -1,0 +1,65 @@
+#baseURL = 'cartasaomeupequeno.l58.me'
+title = 'Cartas Ao Meu Pequeno'
+subtitle = "Oi pequeno,"
+author = "Lucas Sousa de Oliveira"
+# copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+paginate = 10
+languageCode = "pt-BR"
+DefaultContentLanguage = "pt"
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson", "alt-error"]
+relativeURLs = true
+#canonifyURLs = true
+
+theme = "hugo-blog-awesome"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  sitename = "Cartas Ao Meu Pequeno"
+  defaultColor = "auto" # set color mode: dark, light, auto
+  #toc = true # set to false to disable table of contents 'globally'
+  #goToTop = true # set to false to disable 'go to top' button
+  mainSections = ['post']
+  footer = "Te amo, pequeno. Assinado: Papai."
+
+  [params.author]
+    avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+    # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+    intro = "Cartas Ao Meu Pequeno"
+    description = "Um pouquinho do papai para você, leãozinho."
+
+[menu]
+  [[menu.main]]
+    identifier = "main"
+    name = "Principal"
+    title = "principal"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Todas as Cartas"
+    title = "posts"
+    url = "/posts"
+    weight = 20
+
+[permalinks]
+  posts = "/:year-:month-:day-:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
+
+[module]
+  [[module.imports]]
+    path = 'github.com/future-wd/hugo-responsive-images'
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 85
+  resampleFilter = 'Box'
