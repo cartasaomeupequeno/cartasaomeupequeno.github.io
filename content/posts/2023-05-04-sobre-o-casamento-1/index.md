@@ -107,6 +107,7 @@ Apesar de pequeno e simples, esse casamento foi muito especial. Ficamos muito fe
 
 Nesse dia, eu me apaixonei de novo pelo sorriso da mamãe e, por mais difícil que seja alguns dias, me prometi que ia tentar fazê-lo aparecer o máximo de vezes possível. Ainda bem que você chegou, pequeno, porque você consegue arrancar os sorrisos mais lindos dela. Agora somos dois nessa busca!
 
-<p style="text-align: right">
-  Espero que tenha gostado de saber um pouquinho sobre um dos dias mais felizes que nós vivemos, leãozinho. Amo você demais,<br />Papai
-</p>
+{{< sign text="Espero que tenha gostado de saber um pouquinho sobre um dos dias mais felizes que nós vivemos, leãozinho. Amo você demais," >}}
+
+PS: Tenho um bonus para você: nós tentamos transmitir esse casamento ao vivo para que a família de longe pudesse acompanhar. Quer ver o vídeo?
+{{< youtube id="akEby4G1cU0" title="Casamento Júlia & Lucas (Ao Vivo) @ 2021" >}}
