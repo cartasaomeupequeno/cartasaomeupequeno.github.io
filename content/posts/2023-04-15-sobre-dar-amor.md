@@ -7,8 +7,6 @@ timeline_notification:
   - 1681560131
 
 ---
-Oi pequeno,
-
 Papai passou um tempão conversando hoje com a vovó e entramos em um assunto que eu preciso contar para você. Sobre pessoas.
 
 Pessoas existem em todas formas, tipos, raças, crenças... Pessoas existem carregadas de alegrias, tristezas, ideias, traumas... E não somos nós quem deve julgá-las por nada disso. Devemos ser gratos por cada pessoa que cruza nosso caminho, porque ela é única (como nós) e sendo única, ela vai deixar uma marca única em nós. Você pode até não perceber, mas cada pessoa que cruza nosso caminho, sem nem olharmos um para o outro, muda um pouquinho a nossa história. O quanto muda, para onde muda, se vamos ficar felizes ou não, depende apenas da gente. Mas se vamos mudar a história de alguém, porque não para melhor?

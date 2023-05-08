@@ -7,8 +7,6 @@ timeline_notification:
   - 1681328686
 
 ---
-Oi pequeno,
-
 Como você está? Você está cuidando da mamãe? Está visitando seus vovós e vovôs? Hoje o papai está precisando de um abraço seu. Tem dias que são mais difíceis, que parece que nada vai dar certo. Quando você era pequeno, eu comprei um livro para você chamado "O menino, a toupeira, a raposa e o cavalo" e em uma das páginas, o cavalo, maior e mais forte dos amigos, falou para todos que também sentia medo e que a força verdadeira está em saber pedir ajuda. Talvez eu esteja trapaceando, mas queria "roubar" um pouco dessa força de você (no futuro), você me ajuda?
 
 Ser homem é ser força, estabilidade, paciência, porto seguro, farol. Não quer dizer que não exista mulher forte, estável, e tal, mas mulheres mais fortes nunca serão tão fortes quanto o homem mais forte. Essa analogia (torta) é sobre força física, mas espero que entenda que isso define o nosso papel no mundo em todos os aspectos. Talvez por isso seja tão difícil pedirmos ajuda, nos abrirmos, sabe? Como vamos pedir ajuda se somos a ajuda? Mas é tão importante aprender a ser vulnerável, entender que somos frágeis, entender que as vezes precisamos do outro assim como o outro as vezes precisam da gente, e que assim todos aprendemos a ser melhores juntos.

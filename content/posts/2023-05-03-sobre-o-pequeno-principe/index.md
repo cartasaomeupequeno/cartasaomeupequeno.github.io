@@ -7,8 +7,6 @@ timeline_notification:
   - 1683152223
 
 ---
-Oi pequeno,
-
 O papai gosta muito de ler. Talvez por isso eu logo pensei em te escrever cartas, imaginei que você também fosse gostar😅. Pois bem, tarde demais agora.
 
 Um dos livros preferidos do papai é um livro de criança, sabia? Se chama O Pequeno Príncipe, de Antoine de Saint-Exupéry. Ele conta a história de um menino que mora num planetinha com sua rosa, mas que decide partir em uma aventura. No meio do caminho, ele encontra com um aviador e o conta todo tipo de histórias sobre as suas aventuras. Apesar de pequeno, o príncipe é muito sábio e ensina bastante coisa ao aviador. Ele também ensinou muita coisa a mim.

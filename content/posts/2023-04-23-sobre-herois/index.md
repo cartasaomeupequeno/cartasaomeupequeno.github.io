@@ -7,8 +7,6 @@ timeline_notification:
   - 1682561217
 
 ---
-Oi pequeno,
-
 Faz uma semana que você está doente, foi inclusive internado anteontem e esta tomando antibiótico na veia 😭. Parece que eu só paro pra escrever sobre coisas ruins por aqui, né? Muita coisa tem acontecido junta. Desculpa. Eu e a mamãe achamos que você tem sentido a ausência do papai, tem ficado triste e com isso doentinho. Ou pode ser que você ainda não tem todas as proteções que o seu corpinho precisa para combater doenças que são comuns para nós adultos. Mas não importa, nós ficamos super preocupados de toda forma.
 
 {{< picture

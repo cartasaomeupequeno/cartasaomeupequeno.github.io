@@ -7,8 +7,6 @@ timeline_notification:
   - 1682628532
 
 ---
-Oi pequeno,
-
 Não sei se você vai lembrar, mas nós tínhamos dois cachorro quando você era pequeno: Nero e Noah. Nós tentamos te proteger deles, porque eles eram meio atrapalhados e peludos, mas você amava o Nero. Sempre que você dava trabalho para comer, nós soltávamos o Nero dentro de casa e você ficava olhando para ele e comendo distraído. E ele ficava cheirando e lambendo seu pé, mas ele queria mesmo era te lamber inteiro. Já o Noah tinha medo de você, porque você puxou os pelinhos do focinho dele (tadinho).
 
 {{< picture

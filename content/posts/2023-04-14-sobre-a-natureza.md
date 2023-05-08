@@ -7,8 +7,6 @@ timeline_notification:
   - 1681509840
 
 ---
-Oi pequeno,
-
 Hoje papai está fazendo a 3ª sessão de quimioterapia, dessa vez num hospital novo. E aí o papai consegue escrever uma das nossas cartinhas com um pouco mais de calma (apesar do remédio me deixar esquisito da cabeça).
 
 Ontem, o papai saiu um pouco de casa para tomar um sol, sentar num banquinho e meditar. O papai ama fazer isso; é uma forma dele se conectar com ele mesmo e com a natureza. O papai, não sei se você já sabe ou percebeu, é introspectivo, ama um bom livro, ama fazer trilha, ama contemplar a natureza.

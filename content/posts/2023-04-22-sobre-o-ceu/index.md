@@ -6,8 +6,6 @@ date: 2023-04-22T03:32:28+00:00
 timeline_notification:
   - 1682134433
 ---
-Oi pequeno,
-
 Hoje você está no hospital com a mamãe. Ela ficou muito preocupada. Você estava com febre, dificuldade de respirar, molinho. E o hospital só deixou a mamãe entrar. Estou aqui esperando vocês voltarem para casa, torcendo que seja só um susto.
 
 Acho que você ainda não sabe, mas o papai pegou seu quarto emprestado. Espero que não se incomode. Já faz algumas semanas que você dorme com a mamãe e o papai (quando está em casa) dorme aqui. O papai tem ficado alguns dias em São Paulo com a vovó Marta para fazer o tratamento dele.

@@ -7,8 +7,6 @@ timeline_notification:
   - 1681320287
 
 ---
-Oi pequeno,
-
 Hoje eu estava pensando: será que você vai achar ruim eu te chamar de pequeno?
 
 Sabe, hoje você tem 6 meses, quase 7. Eu só sei que você é lindo, risonho, energético, comilão, compenetrado, carinhoso, curioso, amoroso. Não sei se você vai ser alto, baixo, gordo, magro... E isso não importa. Para mim, você sempre será meu pequeno. Sempre vai ser aquela bolinha de gostosura que eu recebi da enfermeira no hospital. Sempre vai caber no meu abraço, por maior que você seja. Sempre vai ser meu maior orgulho, independente de qualquer coisa. E como você está ficando grande!

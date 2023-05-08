@@ -7,8 +7,6 @@ timeline_notification:
   - 1682202658
 
 ---
-Oi pequeno,
-
 Você sabia que você é um milagre? Um milagre é quando uma coisa muuuuuito improvável acontece. Sabe qual era a chance do Caio, exatamente do jeito que é, acontecer? Muuuuito pequena.
 
 Na verdade, todos os dias, uma quantidade enorme de milagres acontece, você sabia? É um milagre acordarmos, estarmos bem, estarmos vivos. É um milagre existirmos.
