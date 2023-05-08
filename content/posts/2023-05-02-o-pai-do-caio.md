@@ -5,8 +5,6 @@ type: post
 date: 2023-05-02T20:48:31+00:00
 timeline_notification:
   - 1683075688
-categories:
-  - Uncategorized
 
 ---
 Hoje o papai e a mamãe foram te buscar na escola. Como o papai está meio fraquinho, a mamãe quem entrou para te pegar. Quando ela apertou a campainha e a moça do outro lado perguntou quem era, ela respondeu sem titubear &#8220;a mãe do Caio&#8221;. Ela fez isso com naturalidade, eu sei. Ela é uma mãe nata, uma mãe excelente.
@@ -17,6 +15,6 @@ Depois que você entrou no carro, fomos até uma padaria perto de casa. O papai 
 
 E eu fiquei todo bobo. Eu sou o pai do Caio. Eu sou o cara mais sortudo do mundo.
 
-<p class="has-text-align-right">
+<p style="text-align: right">
   Amo você,<br />Papai
 </p>

@@ -17,6 +17,12 @@ enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
+enableGitInfo = true
+timeout = "5m"
+
+[minify]
+  minifyOutput = true
+
 [params]
   sitename = "Cartas Ao Meu Pequeno"
   defaultColor = "auto" # set color mode: dark, light, auto
