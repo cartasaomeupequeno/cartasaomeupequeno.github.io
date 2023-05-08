@@ -43,7 +43,8 @@
 				"redhat.vscode-yaml",
 				"donjayamanne.githistory",
 				"dbaeumer.vscode-eslint",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},

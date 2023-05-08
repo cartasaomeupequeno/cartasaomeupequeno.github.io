@@ -8,7 +8,7 @@ ARG VARIANT=hugo
 ARG VERSION=latest
 
 # Download Hugo
-RUN apt-get update && apt-get install -y ca-certificates openssl git curl && \
+RUN apt-get update && apt-get install -y ca-certificates openssl git curl golang && \
     rm -rf /var/lib/apt/lists/* && \
     case ${VERSION} in \
     latest) \
@@ -28,6 +28,8 @@ RUN apt-get update && apt-get install -y ca-certificates openssl git curl && \
 
 # Hugo dev server port
 EXPOSE 1313
+
+CMD ["hugo", "server"]
 
 # [Optional] Uncomment this section to install additional OS packages you may want.
 #
