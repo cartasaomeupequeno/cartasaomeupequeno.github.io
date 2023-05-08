@@ -21,8 +21,11 @@ E na verdade, hoje você tem 7 meses, quase 8, mas você faz isso desde muito pe
   figcaption_title="Caio acordando"
 >}}
 
+<<<<<<< HEAD
 Eu e a mamãe ficamos suspirando toda vez que você abre esse sorriso (ainda) banguela. E aí nós ficamos o tempo todo procurando estratégias para você sorrir. A mamãe tem um jeitinho especial de te fazer sorrir só olhando para você, mas o papai precisa te fazer cócegas com a barba dele, ou te jogar pra cima, ou ficar dançando e cantando com você no colo na frente do espelho 😅. Mas vale cada segundo. (Quando você tiver seus filhos, vai entender o que eu to falando)
 
+=======
+>>>>>>> c053d727324a3f7e12064f86dd833066b6ea8fcd
 <p style="text-align: right">
   Te amo, gatinho.<br />Papai
 </p>
