@@ -1,6 +1,5 @@
 #baseURL = 'cartasaomeupequeno.l58.me'
 title = 'Cartas Ao Meu Pequeno'
-subtitle = "Oi pequeno,"
 author = "Lucas Sousa de Oliveira"
 # copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 10
@@ -12,30 +11,32 @@ ignoreErrors = ["error-remote-getjson", "alt-error"]
 relativeURLs = true
 #canonifyURLs = true
 
-theme = "hugo-blog-awesome"
+theme = "PaperMod"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 enableGitInfo = true
 timeout = "5m"
+noBuildLock = true
 
 [minify]
   minifyOutput = true
 
 [params]
-  sitename = "Cartas Ao Meu Pequeno"
+  subtitle = "Um pouquinho do papai para você, leãozinho."
   defaultColor = "auto" # set color mode: dark, light, auto
-  #toc = true # set to false to disable table of contents 'globally'
-  #goToTop = true # set to false to disable 'go to top' button
   mainSections = ['post']
   footer = "Te amo, pequeno. Assinado: Papai."
 
-  [params.author]
-    avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
-    # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-    intro = "Cartas Ao Meu Pequeno"
-    description = "Um pouquinho do papai para você, leãozinho."
+  DateFormat = "2 de January de 2006"
+  disableSpecial1stPost = true
+  #hideSummary = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+  postsIntro = "Oi pequeno,"
 
 [menu]
   [[menu.main]]
