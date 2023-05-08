@@ -22,7 +22,6 @@ O papai e a mamãe estavam muito felizes com a sua chegada e preparam um super q
 
 Eu fico tão ansioso de poder olhar para esse céu com você e falar das coisas que te chamam atenção. Hoje você já fala tanto, mesmo não formando palavras. Queria tanto voar no tempo e te ver crescer e voltar e crescer de novo, e te ver de novo pequeno, e poder te viver de novo e de novo e de novo. Porque no céu do papai, pequeno, todas as estrelas são você (e a mamãe).
 
-
 <p style="text-align: right">
   Fica bem logo, tá? Amo você demais,<br />Papai
 </p>
