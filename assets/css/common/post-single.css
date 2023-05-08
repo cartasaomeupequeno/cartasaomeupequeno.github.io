@@ -248,6 +248,7 @@
     -webkit-user-drag: none;
     display: block;
     width: 75%;
+    height: auto;
 }
 
 .post-content img[src*="#center"] {
