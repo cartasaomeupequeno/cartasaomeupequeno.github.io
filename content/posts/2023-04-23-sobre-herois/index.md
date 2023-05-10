@@ -9,11 +9,11 @@ timeline_notification:
 ---
 Faz uma semana que você está doente, foi inclusive internado anteontem e esta tomando antibiótico na veia 😭. Parece que eu só paro pra escrever sobre coisas ruins por aqui, né? Muita coisa tem acontecido junta. Desculpa. Eu e a mamãe achamos que você tem sentido a ausência do papai, tem ficado triste e com isso doentinho. Ou pode ser que você ainda não tem todas as proteções que o seu corpinho precisa para combater doenças que são comuns para nós adultos. Mas não importa, nós ficamos super preocupados de toda forma.
 
-{{< picture
-  src="d841177f-ca6d-4f2e-8794-df2d1eee227b-0.png"
-  alt="Herói do papai"
-  width="300"
->}}
+{{< gallery class="content-gallery" >}}
+  {{< img
+      src="d841177f-ca6d-4f2e-8794-df2d1eee227b-0.png"
+      caption="Herói do papai" >}}
+{{< /gallery >}}
 
 A mamãe tem falado em como você tem sido forte no hospital. Ela disse que você nem está chorando muito, que está até animadinho, brincando e se atrapalhando com o acesso e o soro. Que bom que você consegue achar graça no meio dos problemas 🥰
 

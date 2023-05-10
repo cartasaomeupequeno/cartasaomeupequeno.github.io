@@ -9,11 +9,11 @@ timeline_notification:
 ---
 Você já sabe que o papai está em SP hoje, né? Hoje o papai acordou muito cedo e cansado, mas logo a mamãe enviou várias fotos suas com o seu bom dia ❤️
 
-{{< picture
-  src="imagem-do-whatsapp-de-2023-04-28-as-07.34.09.jpg"
-  alt="Sorriso lindo do Caio"
-  figcaption_title="Sorriso lindo do Caio"
->}}
+{{< gallery class="content-gallery" >}}
+  {{< img
+      src="imagem-do-whatsapp-de-2023-04-28-as-07.34.09.jpg"
+      caption="Sorriso lindo do Caio" >}}
+{{< /gallery >}}
 
 Me diz se tem como acordar triste com um sorriso desses??? O papai sempre diz que seu sorriso e o da mamãe são as coisas mais lindas do mundo, pode perguntar a ela.
 
@@ -27,16 +27,14 @@ O primeiro computador que o papai viu, foi aos 6 anos, e foi o que fez ele se ap
 
 Quando o papai era criança e queria estudar/aprender, não dava para procurar no Google, Bing, Yahoo, Youtube e tantos outros. Mas vovô tinha comprado (caro) uma tal Enciclopédia Britânica, que falava sobre tuuuuuuudo. E sempre procurávamos também muita coisa no dicionário. Era um momento muito gostoso, porque era preciso parar e fazer uma coisa de cada vez.
 
-{{< picture
-  src="image-7.png"
-  alt="Enciclopedia Britânica Barsa"
-  figcaption_title="Enciclopedia Britânica Barsa"
->}}
+{{< gallery class="content-gallery" >}}
+  {{< img
+      src="image-7.png"
+      caption="Enciclopedia Britânica Barsa" >}}
+{{< /gallery >}}
 
 Hoje, vemos muita gente grudada no celular, procurando milhares de assuntos diferentes ao mesmo tempo, fazendo milhares de coisas sem se concentrar em nada direito. E assim a vida vai passando bem diante dos nossos olhos. Toma cuidado com isso, tá?
 
 Nós só temos uma vida, tão preciosa. Não existe nada mais importante que ela e que as vidas das pessoas aos nosso redor. Por isso, cuida da mamãe. Ama ela demais. Respeita o que ela tem a dizer, porque ela já errou e acertou muuuuito para poder te dizer o que é bom. Tenta perceber como ela faz tantas pequenas coisinhas para fazer nosso dia tão mais especial.
 
-<p style="text-align: right">
-Amo você e a mamãe mais que demais,<br />Papai
-</p>
+{{< sign text="Amo você e a mamãe mais que demais," >}}

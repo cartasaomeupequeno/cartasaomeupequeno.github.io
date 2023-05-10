@@ -15,8 +15,8 @@ Hoje você sorriu em todos os momentos. Aquele sorriso que você faz fechando os
   Amo demais você, pequeno<br />Papai
 </p>
 
-{{< picture
-  src="image-1.png"
-  alt="Herói do papai"
-  width="300"
->}}
+{{< gallery class="content-gallery" >}}
+  {{< img
+      src="image-1.png"
+      caption="Herói do papai" >}}
+{{< /gallery >}}

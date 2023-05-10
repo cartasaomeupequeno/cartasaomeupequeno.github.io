@@ -1,0 +1,13 @@
+{{ $nimgs := sub (len (split .Inner "img") ) 1 }}
+<div class="gallery" data-items="{{- $nimgs -}}" style="grid-gap: 10px;
+display: grid;
+grid-template-columns:  {{ if eq $nimgs 1 }}1fr
+                        {{ else if eq (mod $nimgs 2) 0 }}1fr 1fr
+                        {{ else if eq (mod $nimgs 3) 0 }}1fr 1fr 1fr
+                        {{ else if eq (mod $nimgs 5) 0 }}1fr 1fr 1fr
+                        {{ else }}1fr 1fr 1fr 1fr{{ end }};
+position: relative;
+width: {{ if eq $nimgs 1 }}60%{{ else }}100%{{ end }};
+{{ if eq $nimgs 1 }}margin: auto{{ end }};">
+    {{ .Inner }}
+</div>

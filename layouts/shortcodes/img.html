@@ -1,0 +1,29 @@
+{{- $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
+
+<figure style="position: relative;">
+    <a
+        {{ with .Get "link" }}
+            href="{{ $src.RelPermalink }}"
+            target="_blank"
+        {{ end }}
+        data-pswp-width="{{ $src.Width }}"
+        data-pswp-height="{{ $src.Height }}"
+        data-cropped="true">
+        <img
+            style="width: fit-content;" src="{{ $src.RelPermalink }}"
+            {{ if or (.Get "alt") (.Get "caption") }}
+                alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"
+            {{ end }} />
+    </a>
+    {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+    <figcaption>{{ if isset .Params "title" }}
+        <h4>{{ .Get "title" }}</h4>{{ end }}
+        {{ if or (.Get "caption") (.Get "attr")}}<p>
+        {{ .Get "caption" }}
+        {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
+            {{ .Get "attr" }}
+        {{ if .Get "attrlink"}}</a> {{ end }}
+        </p> {{ end }}
+    </figcaption>
+    {{ end }}
+</figure>

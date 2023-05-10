@@ -10,11 +10,11 @@ Hoje você está no hospital com a mamãe. Ela ficou muito preocupada. Você est
 
 Acho que você ainda não sabe, mas o papai pegou seu quarto emprestado. Espero que não se incomode. Já faz algumas semanas que você dorme com a mamãe e o papai (quando está em casa) dorme aqui. O papai tem ficado alguns dias em São Paulo com a vovó Marta para fazer o tratamento dele.
 
-{{< picture
-  src="20230422_0013521294962151191088922.jpg"
-  alt="Ceu estrelado"
-  width="300"
->}}
+{{< gallery >}}
+  {{< img
+      src="20230422_0013521294962151191088922.jpg"
+      caption="Ceu estrelado" >}}
+{{< /gallery >}}
 
 O papai e a mamãe estavam muito felizes com a sua chegada e preparam um super quarto para você. Tinha o berço que você ganhou da Helena (lembra da Helena, Fabiano e Clarissa, mamãe?), a cama que a mamãe guardou para dormir com você, uma mesinha com armário para trocarmos você e guardarmos suas roupas. Mas também tinham coisas mais sutis e singelas: o papai e a mamãe fizeram um céu de estrelas brilhantes dentro do céu quarto. O papai até conseguiu tirar uma foto!
 

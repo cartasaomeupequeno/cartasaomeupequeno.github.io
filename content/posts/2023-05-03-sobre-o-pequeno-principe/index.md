@@ -11,10 +11,11 @@ O papai gosta muito de ler. Talvez por isso eu logo pensei em te escrever cartas
 
 Um dos livros preferidos do papai é um livro de criança, sabia? Se chama O Pequeno Príncipe, de Antoine de Saint-Exupéry. Ele conta a história de um menino que mora num planetinha com sua rosa, mas que decide partir em uma aventura. No meio do caminho, ele encontra com um aviador e o conta todo tipo de histórias sobre as suas aventuras. Apesar de pequeno, o príncipe é muito sábio e ensina bastante coisa ao aviador. Ele também ensinou muita coisa a mim.
 
-{{< picture
-  src="image-12.png"
-  alt="Mamãe, Caio e o Pequeno Príncipe"
->}}
+{{< gallery >}}
+  {{< img
+      src="image-12.png"
+      caption="Mamãe, Caio e o Pequeno Príncipe" >}}
+{{< /gallery >}}
 
 O papai adora encontrar esses pequenos ensinamentos disfarçados nas coisas mais simples e singelas. É por isso que eu adoro estar em meio a natureza, meditar, observar as pessoas, respirar ar puro, ler. Quando a gente percebe, acabamos ficando um pouquinho melhor do que éramos antes.
 
@@ -35,6 +36,4 @@ Eu queria te deixar hoje algumas frases que mais me marcaram nesse livro, pequen
  13. “O amor não consiste em olhar um para o outro, mas sim em olhar juntos para a mesma direção.”
  14. “Aqueles que passam por nós, não vão sós, não nos deixam sós. Deixam um pouco de si, levam um pouco de nós.” ❤️
 
-<p style="text-align: right">
-  Amo você,<br />Papai
-</p>
+{{< sign text="Amo você," >}}
