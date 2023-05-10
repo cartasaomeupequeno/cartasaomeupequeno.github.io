@@ -60,10 +60,6 @@ noBuildLock = true
   # Allows HTML in Markdown
   unsafe = true
 
-[module]
-  [[module.imports]]
-    path = 'github.com/future-wd/hugo-responsive-images'
-
 [imaging]
   anchor = 'Smart'
   bgColor = '#ffffff'
