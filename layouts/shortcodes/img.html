@@ -2,10 +2,8 @@
 
 <figure style="position: relative;">
     <a
-        {{ with .Get "link" }}
-            href="{{ $src.RelPermalink }}"
-            target="_blank"
-        {{ end }}
+        href="{{ $src.RelPermalink }}"
+        target="_blank"
         data-pswp-width="{{ $src.Width }}"
         data-pswp-height="{{ $src.Height }}"
         data-cropped="true">
