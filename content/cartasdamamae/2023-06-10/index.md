@@ -17,4 +17,4 @@ Vou colocar as fotos das cartas para você conseguir aproveitar também um pouqu
       caption="Página 2" >}}
 {{< /gallery >}}
 
-{{ sign text="Te amamos, pequeno" }}
+{{< sign text="Te amamos, pequeno" >}}
