@@ -1,6 +1,6 @@
 ---
 title: Bom dia, pequeno!
-author: lsoliveira459
+author: Lucas Sousa de Oliveira
 type: post
 date: 2023-05-08T01:17:00+00:00
 
