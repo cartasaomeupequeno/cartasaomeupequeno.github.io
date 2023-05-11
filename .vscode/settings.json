@@ -14,5 +14,6 @@
             "other": "off"
         },
         "editor.minimap.enabled": false
-    }
+    },
+    "frontMatter.dashboard.openOnStart": true
 }

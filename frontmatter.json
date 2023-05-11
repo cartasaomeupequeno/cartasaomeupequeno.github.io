@@ -7,49 +7,60 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
           "type": "string"
         },
         {
-          "title": "Description",
-          "name": "description",
+          "title": "author",
+          "name": "author",
           "type": "string"
         },
         {
-          "title": "Publishing date",
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "type": "datetime"
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "Tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
+          "title": "menu",
+          "name": "menu",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "main",
+              "name": "main",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "parent",
+                  "name": "parent",
+                  "type": "string"
+                },
+                {
+                  "title": "weight",
+                  "name": "weight",
+                  "type": "number"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
   ],
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
+      "title": "Cartas do Papai",
+      "path": "[[workspace]]/content/cartasdopapai"
+    },
+    {
+      "title": "Cartas da Mamãe",
+      "path": "[[workspace]]/content/cartasdamamae"
     },
     {
       "title": "PaperMod",
