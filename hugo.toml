@@ -40,18 +40,19 @@ noBuildLock = true
 
 [menu]
   [[menu.main]]
-    identifier = "main"
-    name = "Principal"
-    title = "principal"
-    url = "/"
-    weight = 10
+    name = "Cartas do Papai"
+    url = "/cartasdopapai"
+    weight = 20
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Todas as Cartas"
-    title = "posts"
-    url = "/posts"
+    name = "Cartas da Mamãe"
+    url = "/cartasdamamae"
     weight = 20
+
+  [[menu.main]]
+    name = "Todas as Cartas"
+    url = "/"
+    weight = 30
 
 [permalinks]
   posts = "/:year-:month-:day-:title/"
