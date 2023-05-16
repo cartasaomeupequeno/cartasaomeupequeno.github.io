@@ -66,5 +66,9 @@
       "title": "PaperMod",
       "path": "[[workspace]]/themes/PaperMod"
     }
-  ]
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313"
 }

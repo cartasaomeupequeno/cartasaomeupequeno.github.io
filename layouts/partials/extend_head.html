@@ -1,7 +1,7 @@
 {{ $photoswipe := resources.Get "js/photoswipe.umd.min.js" }}
 <script src="{{ $photoswipe.RelPermalink }}"></script>
-{{- $photoswipe_lightbox := resources.Get "js/photoswipe-lightbox.umd.min.js" -}}
+{{ $photoswipe_lightbox := resources.Get "js/photoswipe-lightbox.umd.min.js" }}
 <script src="{{ $photoswipe_lightbox.RelPermalink }}"></script>
 
-{{- $photoswipe_css := resources.Get "css/photoswipe.css" -}}
+{{ $photoswipe_css := resources.Get "css/photoswipe.css" | resources.Minify }}
 <link crossorigin="anonymous" href="{{ $photoswipe_css.RelPermalink }}" rel="preload stylesheet" as="style">

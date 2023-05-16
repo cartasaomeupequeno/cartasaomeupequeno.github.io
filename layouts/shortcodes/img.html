@@ -1,14 +1,19 @@
-{{- $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $low_src := $src.Resize "300x webp picture q90 Lanczos" }}
+{{ $high_src := $src.Resize "3000x webp picture q90 Lanczos" }}
 
 <figure style="position: relative;">
     <a
-        href="{{ $src.RelPermalink }}"
+        href="{{ $high_src.RelPermalink }}"
         target="_blank"
-        data-pswp-width="{{ $src.Width }}"
-        data-pswp-height="{{ $src.Height }}"
+        data-pswp-width="{{ $high_src.Width }}"
+        data-pswp-height="{{ $high_src.Height }}"
         data-cropped="true">
         <img
-            style="width: fit-content;" src="{{ $src.RelPermalink }}"
+            style="width: fit-content;"
+            src="{{- $high_src.RelPermalink -}}"
+            srcset="{{ $low_src.RelPermalink }} 300w,
+            {{ $high_src.RelPermalink }} 3000w,"
             {{ if or (.Get "alt") (.Get "caption") }}
                 alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"
             {{ end }} />
