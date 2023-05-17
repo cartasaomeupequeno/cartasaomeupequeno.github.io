@@ -1,6 +1,6 @@
 ---
 title: Carta da Mamãe para o Papai na sua 5ª Quimio
-author: Júlia Pavan Santos
+author: Júlia Pavan Santos (A/C Lucas Sousa de Oliveira)
 type: post
 date: 2023-05-10T23:49:21.357Z
 ---
